@@ -47,4 +47,4 @@ Stretch goals are considerations for future development. If you happen to have t
 
 ## Resources
 * [StackOverflow](http://stackoverflow.com): The world's largest developer Q&A forum.
-* [Email us](jeffrey_smith4@comcast.com) if you get stuck or have questions.
+* Email us (jeffrey_smith4@comcast.com) if you get stuck or have questions.
