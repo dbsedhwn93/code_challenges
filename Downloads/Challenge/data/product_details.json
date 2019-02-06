@@ -1,0 +1,83 @@
+{
+    "code": "puppy-jiffy",
+    "slug": "puppy-jiffy-xfinity",
+    "category": "toy",
+    "subcategory": "puppy",
+    "brand": "Xfinity",
+    "description": "Meet Jiffy, your favorite new fun lovable puppy toy. This Super soft and cuddly puppy love plush rolly from Disney junior’ s new hit Pre-School series, puppy dog pals is the perfect canine companion.",
+    "details": {
+        "title": "Jiffy Puppy"
+    },
+    "variants": [
+        {
+            "skuCode": "00001",
+            "color": {
+                "name": "Gold",
+                "hex": "E5D18E"
+            },
+            "size": "small",
+            "price": 11.00,
+            "imagesa": "assets/gold_a.jpg",
+            "imagesb": "assets/gold_b.jpg",
+            "imagesc": "assets/gold_c.jpg",
+            "status": "AVAILABLE",
+            "availabilityDate": "2019-02-04T05:00:00.000Z"
+        },
+        {
+            "skuCode": "00002",
+            "color": {
+                "name": "Grey",
+                "hex": "989898"
+            },
+            "size": "small",
+            "price": 10.00,
+            "imagesa": "assets/grey_a.jpg",
+            "imagesb": "assets/grey_b.jpg",
+            "imagesc": "assets/grey_c.jpg",
+            "status": "AVAILABLE",
+            "availabilityDate": "2019-02-04T05:00:00.000Z"
+        },
+        {
+            "skuCode": "00003",
+            "color": {
+                "name": "Gold",
+                "hex": "E5D18E"
+            },
+            "size": "medium",
+            "price": 15.00,
+            "imagesa": "assets/gold_a.jpg",
+            "imagesb": "assets/gold_b.jpg",
+            "imagesc": "assets/gold_c.jpg",
+            "status": "BACKORDERED",
+            "availabilityDate": "2019-02-14T05:00:00.000Z"
+        },
+        {
+            "skuCode": "00004",
+            "color": {
+                "name": "Grey",
+                "hex": "989898"
+            },
+            "size": "medium",
+            "price": 13.00,
+            "imagesa": "assets/grey_a.jpg",
+            "imagesb": "assets/grey_b.jpg",
+            "imagesc": "assets/grey_c.jpg",
+            "status": "AVAILABLE",
+            "availabilityDate": "2019-02-04T05:00:00.000Z"
+        },
+        {
+            "skuCode": "00005",
+            "color": {
+                "name": "Gold",
+                "hex": "E5D18E"
+            },
+            "size": "large",
+            "price": 17.50,
+            "imagesa": "assets/gold_a.jpg",
+            "imagesb": "assets/gold_b.jpg",
+            "imagesc": "assets/gold_c.jpg",
+            "status": "AVAILABLE",
+            "availabilityDate": "2019-02-04T05:00:00.000Z"
+        }
+    ]
+}
